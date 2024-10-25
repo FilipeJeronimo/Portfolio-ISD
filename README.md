@@ -9,9 +9,6 @@ Este repositório foi criado para **documentar**, **organizar** e **compartilhar
 Cada pasta no repositório representa uma aula da disciplina, com materiais específicos de cada sessão. Abaixo, descrevemos brevemente o conteúdo disponível em cada pasta:
 
 - **Aula01/**: Conteúdos introdutórios aos sistemas digitais e fundamentos da disciplina.
-- **Aula02/**: Conceitos iniciais e primeiras práticas em circuitos digitais.
-- **Aula03/**: Exercícios aplicados sobre portas lógicas e operadores binários.
-- *(Continue listando as aulas conforme o progresso)*
 
 Dentro de cada pasta, você encontrará:
 
