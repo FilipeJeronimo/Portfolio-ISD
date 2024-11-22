@@ -1,43 +1,34 @@
-# 2ª Aula – Introdução aos Sistemas Digitais (ISD)
+# 2ª Aula – Revisão e Introdução à Primeira Ficha (ISD)
 
-Na segunda aula da disciplina de Introdução aos Sistemas Digitais (ISD), foi realizada uma revisão dos conceitos abordados na primeira aula, com foco no esclarecimento de dúvidas dos alunos. Além disso, o professor introduziu a primeira ficha de exercícios, abordando a conversão entre os sistemas de numeração octal, binário, decimal e hexadecimal.
+Na segunda aula da disciplina de Introdução aos Sistemas Digitais (ISD), foi feita uma revisão dos conteúdos abordados na primeira aula, com o objetivo de esclarecer dúvidas dos alunos e reforçar os conceitos essenciais. Em seguida, foi apresentada a primeira ficha de exercícios, focada nos sistemas de numeração, abordando os sistemas octal, binário, decimal e hexadecimal.
 
 ## Conteúdos Abordados
 
-### Revisão dos Conceitos da 1ª Aula
+### [Revisão dos Conceitos da 1ª Aula](https://github.com/FilipeJeronimo/Portfolio-ISD/tree/main/Setembro/27set)
 
-A aula iniciou com uma revisão dos temas centrais da primeira aula, com destaque para o modelo de Von Neumann, a distinção entre hardware e software, e o papel dos sistemas operativos. O objetivo foi reforçar os conceitos fundamentais, garantindo que todos os alunos tivessem uma compreensão clara dos tópicos discutidos.
+A revisão começou com a explicação do **modelo de Von Neumann**, relembrando a interação entre a memória, a unidade de controle, a unidade aritmética e lógica (ALU) e os dispositivos de entrada e saída (E/S). O objetivo foi reforçar o entendimento de como os componentes do computador trabalham em conjunto para processar e armazenar dados.
 
-- **Modelo de Von Neumann**
-- **Diferença entre Hardware e Software**
-- **Função dos Sistemas Operativos**
+Em seguida, foi discutida novamente a diferença entre **hardware** e **software**, com ênfase na importância do software para controlar o hardware e possibilitar a interação com o usuário.
 
-### Conversão de Sistemas de Numeração
+### Introdução à 1ª Ficha – Sistemas de Numeração
 
-Em seguida, o professor apresentou a primeira ficha de exercícios, que focou nos sistemas de numeração utilizados na computação:
+A introdução à primeira ficha de exercícios abordou os sistemas de numeração utilizados na computação. Os seguintes sistemas foram explorados:
 
-- **Sistemas de numeração:**
-  - Binário
-  - Decimal
-  - Octal
-  - Hexadecimal
+- **Sistemas Binário e Decimal**: Explicação sobre a conversão entre os dois sistemas, destacando a representação dos números.
+- **Sistema Octal**: Introdução ao sistema octal como uma base intermediária entre o binário e o hexadecimal, explicando sua utilização em algumas áreas da computação.
+- **Sistema Hexadecimal**: Abordagem do sistema hexadecimal, destacando sua importância para representar números binários de forma mais compacta e legível.
 
-Foram explicadas as regras de conversão entre essas bases numéricas, com exercícios práticos para solidificar o entendimento dos alunos.
-
-- **Conversão entre sistemas de numeração:**
-  - Binário para Decimal e vice-versa
-  - Binário para Octal e Hexadecimal
-  - Octal e Hexadecimal para Binário
-
-Esses exercícios ajudaram os alunos a entender a aplicação prática dos conceitos e a importância de dominar as conversões de sistemas de numeração na área de sistemas digitais.
+Durante a aula, foi enfatizada a importância de **entender as conversões entre diferentes bases numéricas**, pois essas habilidades são fundamentais para o trabalho com sistemas digitais e programação de baixo nível.
 
 ## Objetivo da Aula
 
-O objetivo da aula foi revisar os conceitos apresentados na primeira aula, esclarecer dúvidas dos alunos e introduzir a primeira ficha de exercícios sobre sistemas de numeração. A prática de conversão entre diferentes bases numéricas foi destacada como uma habilidade essencial para o entendimento dos sistemas digitais.
+O objetivo principal da segunda aula foi esclarecer as dúvidas surgidas após a primeira aula, reforçando os conceitos fundamentais abordados. Além disso, foi apresentada a primeira ficha de exercícios, com foco na conversão entre diferentes sistemas de numeração, oferecendo aos alunos uma oportunidade de praticar e consolidar o que foi aprendido.
 
 ## Conclusão
 
-A segunda aula foi fundamental para consolidar o conhecimento adquirido na primeira aula e proporcionar uma prática intensiva em conversão entre sistemas de numeração. A resolução de exercícios ajudou os alunos a compreender a importância dessa habilidade no contexto dos sistemas digitais. Além disso, o professor garantiu que todas as dúvidas fossem esclarecidas, o que contribuiu para o melhor aproveitamento do conteúdo.
+A segunda aula foi importante para revisar e fixar os conhecimentos adquiridos na primeira aula. A explicação detalhada sobre os sistemas de numeração e a realização dos exercícios práticos ajudaram a fortalecer a compreensão dos conceitos fundamentais. As dúvidas que surgiram durante a aula foram esclarecidas de forma clara, e a introdução à primeira ficha de exercícios foi uma excelente maneira de aplicar os conceitos de forma prática.
+
+Eu, como aluno, senti que a aula foi essencial para consolidar os conceitos que, à primeira vista, pareciam complexos. A conversão entre os sistemas binário, octal, decimal e hexadecimal, que parecia difícil, agora ficou mais compreensível com a prática. Estou começando a perceber a importância desses conceitos para o entendimento dos sistemas digitais e para a programação em geral.
 
 ---
 
