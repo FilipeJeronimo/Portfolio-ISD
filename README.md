@@ -8,7 +8,7 @@ Este repositório foi criado para **documentar**, **organizar** e **compartilhar
 
 Cada pasta no repositório representa uma aula da disciplina, com materiais específicos de cada sessão. Abaixo, descrevemos brevemente o conteúdo disponível em cada pasta:
 
-**[Aula01/]**(https://github.com/FilipeJeronimo/Portfolio-ISD/tree/main/Setembro/27set): Foi apresentada a disciplina de **Sistemas Digitais** e a sua importância. O professor abordou o **modelo de Von Neumann**, a distinção entre **hardware** e **software**, e o papel do **sistema operativo**. Foram discutidos os principais **sistemas de numeração** (binário, hexadecimal e decimal) e realizada a conversão entre eles. Também foi destacada a importância de manter um **Portfólio Digital** para organizar e documentar o progresso ao longo do curso.
+- **Aula01/**: Foi apresentada a disciplina de **Sistemas Digitais** e a sua importância. O professor abordou o **modelo de Von Neumann**, a distinção entre **hardware** e **software**, e o papel do **sistema operativo**. Foram discutidos os principais **sistemas de numeração** (binário, hexadecimal e decimal) e realizada a conversão entre eles. Também foi destacada a importância de manter um **Portfólio Digital** para organizar e documentar o progresso ao longo do curso.
 
 Dentro de cada pasta, você encontrará:
 
