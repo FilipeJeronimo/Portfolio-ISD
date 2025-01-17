@@ -21,18 +21,18 @@
     - Tipos: D, T, JK, entre outros.
 
 - Realização de exercícios práticos para aplicação dos conceitos abordados.
-
+- Continuação e finalização do mini projeto.
 ---
 
 ## Objetivo da Aula
 
-Introduzir os conceitos de circuitos lógicos combinacionais e sequenciais, explorar os diferentes dispositivos de memória e a sua importância no funcionamento dos sistemas digitais. Além disso, consolidar o aprendizado através de exercícios práticos, estimulando a compreensão dos conceitos teóricos apresentados.
+Compreender os princípios dos circuitos combinacionais e sequenciais, aprofundando o conhecimento sobre dispositivos de memória e a implementação de latches e flip-flops. Aplicar os conceitos aprendidos na prática, através de exercícios e no desenvolvimento do mini projeto.
 
 ---
 
 ## Conclusão com Opinião
 
-A aula foi fundamental para compreender as bases do funcionamento dos circuitos lógicos, essenciais na eletrónica digital. Os conceitos de circuitos combinacionais e sequenciais foram bem apresentados, mostrando a sua aplicação prática através dos dispositivos de memória. O destaque foi a exploração dos latches e flip-flops, que clarificaram a forma como os sistemas armazenam e processam informações. Os exercícios complementaram o aprendizado e permitiram uma abordagem mais interativa e aplicada, promovendo maior compreensão do conteúdo.
+A aula proporcionou um entendimento consolidado sobre circuitos lógicos e dispositivos de memória, destacando sua importância prática na eletrónica e computação. A resolução dos exercícios e a continuidade do mini projeto foram essenciais para aplicar os conceitos de forma prática e contextualizada.
 
 ---
 
